@@ -352,7 +352,7 @@
      -ms-flex-item-align: center;
      -ms-grid-row-align: center;
      align-self: center;
-     background-image: url("/assets/images/5eb2c8a01e474e839caedd2e_paper-plane.svg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5eb2c8a01e474e839caedd2e_paper-plane.svg");
      background-position: 100% 50%;
      background-size: auto 20px;
      background-repeat: no-repeat;
@@ -445,7 +445,7 @@
    }
    
    .body.social-bio-body {
-     background-image: url("/assets/images/614b2492d6c93ccf3672d8a7_jarrang-social-bg-dark.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//614b2492d6c93ccf3672d8a7_jarrang-social-bg-dark.jpg");
      background-position: 0px 0px;
      background-size: cover;
    }
@@ -721,7 +721,7 @@
      min-height: 320px;
      border-radius: 5px;
      background-color: #333;
-     background-image: url("/assets/images/5eb2c89d32c3564073b08bcf_Comp-1_1.gif");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5eb2c89d32c3564073b08bcf_Comp-1_1.gif");
      background-position: 50% 100%;
      background-size: cover;
      background-repeat: no-repeat;
@@ -1163,8 +1163,8 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1d51e93ebb104836b907_home.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1d51e93ebb104836b907_home.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d51e93ebb104836b907_home.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d51e93ebb104836b907_home.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
@@ -1174,8 +1174,8 @@
    .hero-overlay.home {
      height: 100vh;
      max-height: none;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5f02e3ace68b4f24e504f716_home.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5f02e3ace68b4f24e504f716_home.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5f02e3ace68b4f24e504f716_home.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5f02e3ace68b4f24e504f716_home.jpg");
      background-position: 0px 0px, 50% 50%;
    }
    
@@ -1545,59 +1545,59 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5f18363a3bd00caada5ac03c_irvan-smith-5eBW5GomfhY-unsplash.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5f18363a3bd00caada5ac03c_irvan-smith-5eBW5GomfhY-unsplash.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5f18363a3bd00caada5ac03c_irvan-smith-5eBW5GomfhY-unsplash.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5f18363a3bd00caada5ac03c_irvan-smith-5eBW5GomfhY-unsplash.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
      color: #fff;
    }
    
    .main-hero.blog {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1d9ebca2fa32ba871361_blog.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1d9ebca2fa32ba871361_blog.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d9ebca2fa32ba871361_blog.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d9ebca2fa32ba871361_blog.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.resources {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/6183bc7b3f24f407d44a7fd7_resources.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/6183bc7b3f24f407d44a7fd7_resources.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//6183bc7b3f24f407d44a7fd7_resources.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//6183bc7b3f24f407d44a7fd7_resources.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.service-page {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1de6759104833ad38a4b_services.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1de6759104833ad38a4b_services.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1de6759104833ad38a4b_services.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1de6759104833ad38a4b_services.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.confirm {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
      background-attachment: scroll, scroll;
    }
    
    .main-hero.about {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/6183bc01711d547f319cc191_about.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/6183bc01711d547f319cc191_about.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//6183bc01711d547f319cc191_about.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//6183bc01711d547f319cc191_about.jpg");
      background-position: 0px 0px, 50% 25%;
      background-size: auto, cover;
    }
    
    .main-hero.contact {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1e77759104f0ccd38c4b_contact.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1e77759104f0ccd38c4b_contact.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e77759104f0ccd38c4b_contact.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e77759104f0ccd38c4b_contact.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.case-study {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1e1055b72c32871bb2fb_casestudies.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1e1055b72c32871bb2fb_casestudies.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e1055b72c32871bb2fb_casestudies.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e1055b72c32871bb2fb_casestudies.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
@@ -1610,8 +1610,8 @@
    }
    
    .main-hero.welcome {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef5ab65b9e672dbad29d98a_welcome.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef5ab65b9e672dbad29d98a_welcome.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef5ab65b9e672dbad29d98a_welcome.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef5ab65b9e672dbad29d98a_welcome.jpg");
      background-repeat: repeat, repeat;
    }
    
@@ -1637,93 +1637,93 @@
    }
    
    .main-hero.gdpr {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda5675bca2fa987a88b44b_GDPR.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda5675bca2fa987a88b44b_GDPR.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5675bca2fa987a88b44b_GDPR.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5675bca2fa987a88b44b_GDPR.jpg");
      background-size: auto, cover;
    }
    
    .main-hero.terms {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.mailaway {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef5d1b55395cc7ec2ca8fa0_mailaway.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef5d1b55395cc7ec2ca8fa0_mailaway.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef5d1b55395cc7ec2ca8fa0_mailaway.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef5d1b55395cc7ec2ca8fa0_mailaway.jpg");
      background-position: 0px 0px, 50% 50%;
    }
    
    .main-hero.team {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
      background-size: auto, cover;
    }
    
    .main-hero.onthelist {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eff147f4dba183a37a1b145_otl%20header.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eff147f4dba183a37a1b145_otl%20header.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eff147f4dba183a37a1b145_otl%20header.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eff147f4dba183a37a1b145_otl%20header.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.gif {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url("/assets/images/5f1fec88fec29eed6f63e89c_Domestic-GIF.gif");
-     background-image: linear-gradient(180deg, transparent, transparent), url("/assets/images/5f1fec88fec29eed6f63e89c_Domestic-GIF.gif");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url("https://jarrang.github.io/mailaway_website/assets/images//5f1fec88fec29eed6f63e89c_Domestic-GIF.gif");
+     background-image: linear-gradient(180deg, transparent, transparent), url("https://jarrang.github.io/mailaway_website/assets/images//5f1fec88fec29eed6f63e89c_Domestic-GIF.gif");
    }
    
    .main-hero.services {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1de6759104833ad38a4b_services.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1de6759104833ad38a4b_services.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1de6759104833ad38a4b_services.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1de6759104833ad38a4b_services.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.platform-landing {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5f02eef31692988a3b366897_confirm.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5f02eef31692988a3b366897_confirm.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5f02eef31692988a3b366897_confirm.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5f02eef31692988a3b366897_confirm.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.podcast {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.community {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ec67d242a8785421e20edaa_jarrang-wb-14.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ec67d242a8785421e20edaa_jarrang-wb-14.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ec67d242a8785421e20edaa_jarrang-wb-14.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ec67d242a8785421e20edaa_jarrang-wb-14.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .main-hero.academy {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1e77759104f0ccd38c4b_contact.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1e77759104f0ccd38c4b_contact.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e77759104f0ccd38c4b_contact.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e77759104f0ccd38c4b_contact.jpg");
    }
    
    .main-hero.masters {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
      background-position: 0px 0px, 100% 0%;
      background-size: auto, auto;
    }
    
    .main-hero.scorecard {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/608a83af3841b23e3b49a865_scorecard-header.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/608a83af3841b23e3b49a865_scorecard-header.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//608a83af3841b23e3b49a865_scorecard-header.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//608a83af3841b23e3b49a865_scorecard-header.jpg");
      background-position: 0px 0px, 50% 100%;
    }
    
    .main-hero.video {
      height: 80vh;
      max-height: 730px;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.88)), to(rgba(51, 51, 51, 0.88))), url("/assets/images/6102bb0ce225066b51525509_5590639.jpg");
-     background-image: linear-gradient(180deg, rgba(51, 51, 51, 0.88), rgba(51, 51, 51, 0.88)), url("/assets/images/6102bb0ce225066b51525509_5590639.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(51, 51, 51, 0.88)), to(rgba(51, 51, 51, 0.88))), url("https://jarrang.github.io/mailaway_website/assets/images//6102bb0ce225066b51525509_5590639.jpg");
+     background-image: linear-gradient(180deg, rgba(51, 51, 51, 0.88), rgba(51, 51, 51, 0.88)), url("https://jarrang.github.io/mailaway_website/assets/images//6102bb0ce225066b51525509_5590639.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
@@ -2860,8 +2860,8 @@
    }
    
    .detail-section.black.lets-talk {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5f02e309e45cb8dfb4713443_henry%20copy.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5f02e309e45cb8dfb4713443_henry%20copy.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5f02e309e45cb8dfb4713443_henry%20copy.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5f02e309e45cb8dfb4713443_henry%20copy.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
@@ -2932,8 +2932,8 @@
    
    .detail-section.about {
      margin-top: 60px;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.75)), to(rgba(43, 43, 43, 0.75))), url("/assets/images/6183b6cbb6bc00c4ce1c446e_about_2021.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.75), rgba(43, 43, 43, 0.75)), url("/assets/images/6183b6cbb6bc00c4ce1c446e_about_2021.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.75)), to(rgba(43, 43, 43, 0.75))), url("https://jarrang.github.io/mailaway_website/assets/images//6183b6cbb6bc00c4ce1c446e_about_2021.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.75), rgba(43, 43, 43, 0.75)), url("https://jarrang.github.io/mailaway_website/assets/images//6183b6cbb6bc00c4ce1c446e_about_2021.jpg");
      background-position: 0px 0px, 50% 40%;
      background-size: auto, cover;
    }
@@ -3912,20 +3912,20 @@
    }
    
    .value-bg.trust {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ed91e6a1211e32ea0f64732_trust.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ed91e6a1211e32ea0f64732_trust.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e6a1211e32ea0f64732_trust.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e6a1211e32ea0f64732_trust.jpg");
    }
    
    .value-bg.expertise {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ed91e791af64840a8584d9e_expertise.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ed91e791af64840a8584d9e_expertise.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e791af64840a8584d9e_expertise.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e791af64840a8584d9e_expertise.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .value-bg.collaboration {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ed91e87168c5f73645c0482_collab.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ed91e87168c5f73645c0482_collab.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e87168c5f73645c0482_collab.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e87168c5f73645c0482_collab.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
@@ -4580,8 +4580,8 @@
    
    .marquee-section.about {
      margin-top: 60px;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.75)), to(rgba(43, 43, 43, 0.75))), url("/assets/images/5eda1d72e93ebb446036b93d_about.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.75), rgba(43, 43, 43, 0.75)), url("/assets/images/5eda1d72e93ebb446036b93d_about.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.75)), to(rgba(43, 43, 43, 0.75))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d72e93ebb446036b93d_about.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.75), rgba(43, 43, 43, 0.75)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d72e93ebb446036b93d_about.jpg");
      background-position: 0px 0px, 50% 20%;
      background-size: auto, cover;
    }
@@ -5314,50 +5314,50 @@
    }
    
    .div-block-16 {
-     background-image: url("/assets/images/5f1804aeba2817e2fbfbd569_seasons_spring.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5f1804aeba2817e2fbfbd569_seasons_spring.png");
      background-position: 50% 50%;
      background-size: cover;
      background-repeat: no-repeat;
    }
    
    .div-block-17 {
-     background-image: url("/assets/images/5f1804c3daa558e8117dd340_seasons_summer.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5f1804c3daa558e8117dd340_seasons_summer.png");
      background-position: 50% 50%;
      background-size: cover;
    }
    
    .div-block-18 {
-     background-image: url("/assets/images/5f180c06d60f2d34c229f439_fireplace.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5f180c06d60f2d34c229f439_fireplace.png");
      background-position: 50% 50%;
      background-size: cover;
    }
    
    .div-block-19 {
-     background-image: url("/assets/images/5f1836e6ed965b2a00205c5a_camera.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5f1836e6ed965b2a00205c5a_camera.png");
      background-position: 50% 50%;
      background-size: cover;
    }
    
    .div-block-20 {
-     background-image: url("/assets/images/5f183a3cba281770f0fc83ae_christmas.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5f183a3cba281770f0fc83ae_christmas.png");
      background-position: 0px 0px;
      background-size: cover;
    }
    
    .div-block-21 {
-     background-image: url("/assets/images/5f183a65713e075dff4b3874_halloween.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5f183a65713e075dff4b3874_halloween.png");
      background-position: 50% 50%;
      background-size: cover;
    }
    
    .div-block-22 {
-     background-image: url("/assets/images/5f1838fa7d0a6bed6bdb451a_countdown.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5f1838fa7d0a6bed6bdb451a_countdown.png");
      background-position: 50% 50%;
      background-size: cover;
    }
    
    .div-block-23 {
-     background-image: url("/assets/images/5f183a7770eef2a4c0a07226_blackfriday.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5f183a7770eef2a4c0a07226_blackfriday.png");
      background-position: 50% 50%;
      background-size: cover;
    }
@@ -6208,7 +6208,7 @@
      -webkit-justify-content: center;
      -ms-flex-pack: center;
      justify-content: center;
-     background-image: url("/assets/images/5f1838fa7d0a6bed6bdb451a_countdown.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5f1838fa7d0a6bed6bdb451a_countdown.png");
      background-position: 50% 50%;
      background-size: auto;
      box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.2);
@@ -6289,7 +6289,7 @@
      margin-right: auto;
      margin-left: auto;
      background-color: transparent;
-     background-image: url("/assets/images/5ebe7be9a95758ba96916c5f_social_linkedin.svg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//5ebe7be9a95758ba96916c5f_social_linkedin.svg");
      background-position: 0px 0px;
      background-size: cover;
      -webkit-transform: translate(0px, 0px);
@@ -7270,7 +7270,7 @@
    
    .ma-section.lead {
      padding-bottom: 100px;
-     background-image: url("/assets/images/60ed9c68e2255c3e72d914be_ma-bg.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//60ed9c68e2255c3e72d914be_ma-bg.jpg");
      background-position: 50% 0%;
      background-size: cover;
    }
@@ -7280,13 +7280,13 @@
    }
    
    .ma-section.bg {
-     background-image: url("/assets/images/60d5cabe169d7c6dd61b21ac_cta-1.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//60d5cabe169d7c6dd61b21ac_cta-1.jpg");
      background-position: 0px 0px;
      background-size: cover;
    }
    
    .ma-section.bg.fixed {
-     background-image: url("/assets/images/60d5cacda782075a7e52cbf0_testimonial-1.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//60d5cacda782075a7e52cbf0_testimonial-1.jpg");
      background-position: 50% 50%;
      background-size: cover;
      background-attachment: fixed;
@@ -8338,7 +8338,7 @@
      margin-right: 3%;
      margin-left: 3%;
      border-radius: 20px;
-     background-image: url("/assets/images/60e5c76f041c20f6ba20985d_bar-bg.svg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//60e5c76f041c20f6ba20985d_bar-bg.svg");
      background-position: 50% 50%;
      background-size: auto;
      background-attachment: fixed;
@@ -8434,7 +8434,7 @@
    .background-section {
      padding-top: 100px;
      padding-bottom: 100px;
-     background-image: url("/assets/images/60e5c90582a30a1da86e80e8_contact-bg%402x.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//60e5c90582a30a1da86e80e8_contact-bg%402x.jpg");
      background-position: 0px 0px;
      background-size: cover;
    }
@@ -8464,8 +8464,8 @@
    }
    
    .background-section.black.lets-talk {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5f02e309e45cb8dfb4713443_henry%20copy.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5f02e309e45cb8dfb4713443_henry%20copy.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5f02e309e45cb8dfb4713443_henry%20copy.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5f02e309e45cb8dfb4713443_henry%20copy.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
@@ -8532,8 +8532,8 @@
    
    .background-section.about {
      margin-top: 60px;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.75)), to(rgba(43, 43, 43, 0.75))), url("/assets/images/5f02eef497a15491715e53ea_about.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.75), rgba(43, 43, 43, 0.75)), url("/assets/images/5f02eef497a15491715e53ea_about.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.75)), to(rgba(43, 43, 43, 0.75))), url("https://jarrang.github.io/mailaway_website/assets/images//5f02eef497a15491715e53ea_about.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.75), rgba(43, 43, 43, 0.75)), url("https://jarrang.github.io/mailaway_website/assets/images//5f02eef497a15491715e53ea_about.jpg");
      background-position: 0px 0px, 50% 40%;
      background-size: auto, cover;
    }
@@ -8604,59 +8604,59 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-image: url("/assets/images/60e5ca030cb79bfa98dde493_Lucknam%20Park-header%402x.jpg"), -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5f18363a3bd00caada5ac03c_irvan-smith-5eBW5GomfhY-unsplash.jpg");
-     background-image: url("/assets/images/60e5ca030cb79bfa98dde493_Lucknam%20Park-header%402x.jpg"), linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5f18363a3bd00caada5ac03c_irvan-smith-5eBW5GomfhY-unsplash.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//60e5ca030cb79bfa98dde493_Lucknam%20Park-header%402x.jpg"), -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5f18363a3bd00caada5ac03c_irvan-smith-5eBW5GomfhY-unsplash.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//60e5ca030cb79bfa98dde493_Lucknam%20Park-header%402x.jpg"), linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5f18363a3bd00caada5ac03c_irvan-smith-5eBW5GomfhY-unsplash.jpg");
      background-position: 50% 50%, 0px 0px, 50% 50%;
      background-size: cover, auto, cover;
      color: #fff;
    }
    
    .lp-main-hero.blog {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1d9ebca2fa32ba871361_blog.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1d9ebca2fa32ba871361_blog.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d9ebca2fa32ba871361_blog.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d9ebca2fa32ba871361_blog.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.resources {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1e4a2cbafcd429968a9c_resources.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1e4a2cbafcd429968a9c_resources.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e4a2cbafcd429968a9c_resources.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e4a2cbafcd429968a9c_resources.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.service-page {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1de6759104833ad38a4b_services.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1de6759104833ad38a4b_services.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1de6759104833ad38a4b_services.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1de6759104833ad38a4b_services.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.confirm {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
      background-attachment: scroll, scroll;
    }
    
    .lp-main-hero.about {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1d72e93ebb446036b93d_about.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1d72e93ebb446036b93d_about.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d72e93ebb446036b93d_about.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1d72e93ebb446036b93d_about.jpg");
      background-position: 0px 0px, 50% 25%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.contact {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1e77759104f0ccd38c4b_contact.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1e77759104f0ccd38c4b_contact.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e77759104f0ccd38c4b_contact.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e77759104f0ccd38c4b_contact.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.case-study {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1e1055b72c32871bb2fb_casestudies.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1e1055b72c32871bb2fb_casestudies.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e1055b72c32871bb2fb_casestudies.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e1055b72c32871bb2fb_casestudies.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
@@ -8669,8 +8669,8 @@
    }
    
    .lp-main-hero.welcome {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef5ab65b9e672dbad29d98a_welcome.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef5ab65b9e672dbad29d98a_welcome.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef5ab65b9e672dbad29d98a_welcome.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef5ab65b9e672dbad29d98a_welcome.jpg");
      background-repeat: repeat, repeat;
    }
    
@@ -8696,85 +8696,85 @@
    }
    
    .lp-main-hero.gdpr {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda5675bca2fa987a88b44b_GDPR.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda5675bca2fa987a88b44b_GDPR.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5675bca2fa987a88b44b_GDPR.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5675bca2fa987a88b44b_GDPR.jpg");
      background-size: auto, cover;
    }
    
    .lp-main-hero.terms {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.mailaway {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef5d1b55395cc7ec2ca8fa0_mailaway.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef5d1b55395cc7ec2ca8fa0_mailaway.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef5d1b55395cc7ec2ca8fa0_mailaway.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef5d1b55395cc7ec2ca8fa0_mailaway.jpg");
      background-position: 0px 0px, 50% 50%;
    }
    
    .lp-main-hero.team {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
      background-size: auto, cover;
    }
    
    .lp-main-hero.onthelist {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eff147f4dba183a37a1b145_otl%20header.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eff147f4dba183a37a1b145_otl%20header.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eff147f4dba183a37a1b145_otl%20header.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eff147f4dba183a37a1b145_otl%20header.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.gif {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url("/assets/images/5f1fec88fec29eed6f63e89c_Domestic-GIF.gif");
-     background-image: linear-gradient(180deg, transparent, transparent), url("/assets/images/5f1fec88fec29eed6f63e89c_Domestic-GIF.gif");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent)), url("https://jarrang.github.io/mailaway_website/assets/images//5f1fec88fec29eed6f63e89c_Domestic-GIF.gif");
+     background-image: linear-gradient(180deg, transparent, transparent), url("https://jarrang.github.io/mailaway_website/assets/images//5f1fec88fec29eed6f63e89c_Domestic-GIF.gif");
    }
    
    .lp-main-hero.services {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1de6759104833ad38a4b_services.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1de6759104833ad38a4b_services.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1de6759104833ad38a4b_services.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1de6759104833ad38a4b_services.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.platform-landing {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5f02eef31692988a3b366897_confirm.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5f02eef31692988a3b366897_confirm.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5f02eef31692988a3b366897_confirm.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5f02eef31692988a3b366897_confirm.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.podcast {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda5717800a2327be648fbe_cookie.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.community {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ec67d242a8785421e20edaa_jarrang-wb-14.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ec67d242a8785421e20edaa_jarrang-wb-14.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ec67d242a8785421e20edaa_jarrang-wb-14.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ec67d242a8785421e20edaa_jarrang-wb-14.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
    }
    
    .lp-main-hero.academy {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5eda1e77759104f0ccd38c4b_contact.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5eda1e77759104f0ccd38c4b_contact.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e77759104f0ccd38c4b_contact.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5eda1e77759104f0ccd38c4b_contact.jpg");
    }
    
    .lp-main-hero.masters {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
      background-position: 0px 0px, 100% 0%;
      background-size: auto, auto;
    }
    
    .lp-main-hero.scorecard {
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/608a83af3841b23e3b49a865_scorecard-header.jpg");
-     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/608a83af3841b23e3b49a865_scorecard-header.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//608a83af3841b23e3b49a865_scorecard-header.jpg");
+     background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//608a83af3841b23e3b49a865_scorecard-header.jpg");
      background-position: 0px 0px, 50% 100%;
    }
    
@@ -9403,7 +9403,7 @@
      right: 0%;
      bottom: 0%;
      z-index: 20;
-     background-image: url("/assets/images/61001875d85a9335eb10b2d7_5cb0633d80f2cf201a4c3253%20copy.png");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//61001875d85a9335eb10b2d7_5cb0633d80f2cf201a4c3253%20copy.png");
      background-position: 50% 50%;
      background-size: cover;
    }
@@ -9680,33 +9680,33 @@
      height: 50%;
      border-top-left-radius: 20px;
      border-top-right-radius: 20px;
-     background-image: url("/assets/images/613b635a149cb66db1dc0c73_lookbook-hyperpersonalisation.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//613b635a149cb66db1dc0c73_lookbook-hyperpersonalisation.jpg");
      background-position: 50% 0%;
      background-size: cover;
    }
    
    .product-thumbnail.live-images {
-     background-image: url("/assets/images/613b6304ce2b5971af06cbd3_lookbook-liveimages.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//613b6304ce2b5971af06cbd3_lookbook-liveimages.jpg");
    }
    
    .product-thumbnail.bespoke-animation {
-     background-image: url("/assets/images/6140b3c6fadccbcf36397d3c_lookbook-bespoke.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//6140b3c6fadccbcf36397d3c_lookbook-bespoke.jpg");
    }
    
    .product-thumbnail.bespoke-animation:hover {
-     background-image: url("/assets/images/6140b3b1740be432966eecac_train-animation-network.gif");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//6140b3b1740be432966eecac_train-animation-network.gif");
    }
    
    .product-thumbnail.countdown-timers {
-     background-image: url("/assets/images/6140b47940345cee3118af7e_lookbook-countdown.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//6140b47940345cee3118af7e_lookbook-countdown.jpg");
    }
    
    .product-thumbnail.countdown-timers:hover {
-     background-image: url("/assets/images/6140b4878ac7664313322257_lookbook-countdown.gif");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//6140b4878ac7664313322257_lookbook-countdown.gif");
    }
    
    .product-thumbnail.animated-images {
-     background-image: url("/assets/images/6140ac683ff4399de7c9e8b2_fireplace-still.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//6140ac683ff4399de7c9e8b2_fireplace-still.jpg");
      background-position: 50% 0%;
      background-size: cover;
      -webkit-transition: all 400ms ease;
@@ -9714,17 +9714,17 @@
    }
    
    .product-thumbnail.animated-images:hover {
-     background-image: url("/assets/images/613b6f7661dc95300058fcc6_fireplace.gif");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//613b6f7661dc95300058fcc6_fireplace.gif");
      background-size: cover;
    }
    
    .product-thumbnail.video-in-email {
-     background-image: url("/assets/images/6140b00140345cdb8e189671_lookbook-vie.jpg");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//6140b00140345cdb8e189671_lookbook-vie.jpg");
      background-position: 50% 0%;
    }
    
    .product-thumbnail.video-in-email:hover {
-     background-image: url("/assets/images/6140b31321fcbd5d21f7c889_lookbook-vie.gif");
+     background-image: url("https://jarrang.github.io/mailaway_website/assets/images//6140b31321fcbd5d21f7c889_lookbook-vie.gif");
    }
    
    .product-body {
@@ -11897,8 +11897,8 @@
      }
    
      .main-hero.masters {
-       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
-       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
+       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
+       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
        background-position: 0px 0px, 50% 0%;
      }
    
@@ -12195,14 +12195,14 @@
      }
    
      .value-bg.trust {
-       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ed91e6a1211e32ea0f64732_trust.jpg");
-       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ed91e6a1211e32ea0f64732_trust.jpg");
+       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e6a1211e32ea0f64732_trust.jpg");
+       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e6a1211e32ea0f64732_trust.jpg");
        background-position: 0px 0px, 50% 0%;
      }
    
      .value-bg.collaboration {
-       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ed91e87168c5f73645c0482_collab.jpg");
-       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ed91e87168c5f73645c0482_collab.jpg");
+       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e87168c5f73645c0482_collab.jpg");
+       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ed91e87168c5f73645c0482_collab.jpg");
        background-position: 0px 0px, 50% 0%;
      }
    
@@ -13027,8 +13027,8 @@
      }
    
      .lp-main-hero.masters {
-       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
-       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
+       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
+       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
        background-position: 0px 0px, 50% 0%;
      }
    
@@ -13432,8 +13432,8 @@
      }
    
      .main-hero.masters {
-       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
-       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
+       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
+       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
        background-position: 0px 0px, 100% 0%;
      }
    
@@ -14450,8 +14450,8 @@
      }
    
      .lp-main-hero.masters {
-       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
-       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("/assets/images/5ef613be5babc45ab6bc5250_team.jpg");
+       background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(43, 43, 43, 0.6)), to(rgba(43, 43, 43, 0.6))), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
+       background-image: linear-gradient(180deg, rgba(43, 43, 43, 0.6), rgba(43, 43, 43, 0.6)), url("https://jarrang.github.io/mailaway_website/assets/images//5ef613be5babc45ab6bc5250_team.jpg");
        background-position: 0px 0px, 100% 0%;
      }
    
@@ -14652,24 +14652,24 @@
    
      .product-thumbnail {
        height: 40%;
-       background-image: url("/assets/images/613b6304ce2b5971af06cbd3_lookbook-liveimages.jpg");
+       background-image: url("https://jarrang.github.io/mailaway_website/assets/images//613b6304ce2b5971af06cbd3_lookbook-liveimages.jpg");
        background-position: 50% 0%;
      }
    
      .product-thumbnail.bespoke-animation {
-       background-image: url("/assets/images/613b6333224bfe6506facb5d_lookbook-bespoke.jpg");
+       background-image: url("https://jarrang.github.io/mailaway_website/assets/images//613b6333224bfe6506facb5d_lookbook-bespoke.jpg");
      }
    
      .product-thumbnail.countdown-timers {
-       background-image: url("/assets/images/613b6345fca3b8045a5fc2fc_lookbook-countdowns.jpg");
+       background-image: url("https://jarrang.github.io/mailaway_website/assets/images//613b6345fca3b8045a5fc2fc_lookbook-countdowns.jpg");
      }
    
      .product-thumbnail.animated-images {
-       background-image: url("/assets/images/613b63739c4a4f8cb40cbbc9_lookbook-animated.jpg");
+       background-image: url("https://jarrang.github.io/mailaway_website/assets/images//613b63739c4a4f8cb40cbbc9_lookbook-animated.jpg");
      }
    
      .product-thumbnail.video-in-email {
-       background-image: url("/assets/images/613b638b7db59c3d72808b1d_lookbook-video.jpg");
+       background-image: url("https://jarrang.github.io/mailaway_website/assets/images//613b638b7db59c3d72808b1d_lookbook-video.jpg");
      }
    
      .left-arrow-3 {
